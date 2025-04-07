@@ -1,1 +1,1 @@
-Hi, I'm Danillo, I'm 17 years old and I'm studying Java in order to improve my language skills and graduate in Computer Science.
+Hello, I'm Danillo, I'm 17 years old and I'm studying Java to improve my backend and typescript skills for the frontend area as a programmer, where I intend to become a dev with a degree in Computer Science in the future.
