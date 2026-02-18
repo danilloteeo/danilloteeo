@@ -28,7 +28,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind,git,github,vscode,figma&perline=6" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,git,github,&perline=3" alt="Tech stack icons" />
 </p>
 
 ## Current Focus
@@ -48,14 +48,6 @@
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=danilloteeo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Portfolio](https://github.com/danilloteeo) | Personal portfolio with responsive UI and projects. | React, Tailwind |
-| [API Study Project](https://github.com/danilloteeo) | REST API with authentication and modular architecture. | Node.js, Express |
-| [Full Stack App](https://github.com/danilloteeo) | End-to-end app integrating frontend and backend. | Next.js, TypeScript |
 
 ## Contact
 
