@@ -15,28 +15,59 @@
 <h1 align="center">Hi, I am Danillo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=18+y.o.+developer+student;Building+full+stack+skills+with+React+and+Node.js;Learning+Next.js+to+ship+complete+apps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Full+stack+developer+from+Brazil;Shipping+Next.js+apps+with+Prisma+and+Supabase;Payments+with+Stripe+and+Mercado+Pago;Also+building+with+C%23+.NET+and+C%2B%2B+Qt" alt="Typing intro" />
 </p>
 
 ## About Me
 
-- 18 years old, based in Brazil.
-- Focused on becoming a professional full stack developer.
-- Studying frontend and backend with practical projects.
+- 19 years old, based in Brazil.
+- Full stack developer building real, production-shaped projects.
+- I ship complete apps: auth, database, payments, and dashboards.
 - Interested in clean architecture, best practices, and scalability.
 
 ## Tech Stack
 
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,git,github,&perline=3" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp&perline=8" alt="Languages" />
 </p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=8" alt="Frontend" />
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase,postgres,dotnet,qt&perline=8" alt="Backend and data" />
+</p>
+
+**Tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vitest&perline=8" alt="Tooling" />
+</p>
+
+<sub>Also working with: shadcn/ui, Radix UI, NextAuth, Zod, React Hook Form, Zustand, Recharts, Stripe, Mercado Pago, Testing Library.</sub>
+
+## What I Build
+
+- **Full stack Next.js** apps with Prisma, NextAuth, and payment flows (Stripe / Mercado Pago).
+- **React + Supabase** dashboards with shadcn/ui, Zod validation, and charts.
+- **Desktop tooling** in C# / .NET and C++ / Qt.
+- Test coverage with Vitest and Testing Library, deployed on Vercel.
+
+## Featured Projects
+
+- **[Cardapio.app](https://github.com/danilloteeo/lanchonete)** — Digital menu SaaS for food shops. Each store builds its menu and gets a public link; orders go to WhatsApp and online payments run through Mercado Pago. *Next.js 16, React 19, Prisma, NextAuth, Stripe / Mercado Pago.*
+- **[Multi-Niche Scheduling](https://github.com/danilloteeo/2026)** — Multi-tenant scheduling SaaS: businesses from different niches sign up and get a public link for clients to book without logging in. *Next.js, Supabase, PostgreSQL.*
+- **[Batedor de Ponto](https://github.com/danilloteeo/PointManager)** — Work-hours time clock with web and mobile sharing the same API. *Next.js, Prisma, PostgreSQL, React Native (Expo).*
+- **[EletricPower](https://github.com/danilloteeo/EletricPower)** — Management dashboard with reports and printable charts. *React, Supabase, shadcn/ui, Recharts, Zod.*
 
 ## Current Focus
 
-- Build complete projects with React + Node.js.
-- Improve API design with Express and NestJS.
-- Advance in Next.js for full stack delivery.
-- Strengthen fundamentals in testing and project structure.
+- Deepen full stack delivery with Next.js, Prisma, and Supabase.
+- Strengthen testing discipline and clean project structure.
+- Improve real-world integrations (auth, payments, file storage).
 
 ## GitHub Stats
 
