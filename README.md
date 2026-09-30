@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Danillo%20Teodoro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20progress&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:00ADD8&text=Danillo%20Teodoro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Go%20Developer%20%C2%B7%20Backend%20%26%20Desktop&descAlignY=55" alt="Header" />
 </p>
 
 <p align="center">
@@ -9,78 +9,119 @@
   <a href="mailto:danillot123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=danilloteeo&style=for-the-badge&color=2563EB" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=danilloteeo&style=for-the-badge&color=00ADD8" alt="Profile views" />
 </p>
-
-<h1 align="center">Hi, I am Danillo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Full+stack+developer+from+Brazil;Shipping+Next.js+apps+with+Prisma+and+Supabase;Payments+with+Stripe+and+Mercado+Pago;Also+building+with+C%23+.NET+and+C%2B%2B+Qt" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00ADD8&center=true&vCenter=true&width=760&lines=Go+developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;REST+APIs+with+chi%2C+pgx+and+PostgreSQL;Desktop+apps+with+Wails+%2B+React;Brazilian+fiscal+docs%3A+NF-e%2C+NFC-e%2C+MDF-e" alt="Typing intro" />
 </p>
 
-## About Me
+## 👋 About Me
 
-- 19 years old, based in Brazil.
-- Full stack developer building real, production-shaped projects.
-- I ship complete apps: auth, database, payments, and dashboards.
-- Interested in clean architecture, best practices, and scalability.
+I'm Danillo, a 19-year-old developer from Brazil who builds **real software for real businesses** — point-of-sale systems, fiscal document emitters, licensing servers and desktop tools used every day by small shops.
 
-## Tech Stack
+My main language today is **Go**. I like it because it compiles to a single binary, runs anywhere, and keeps the code simple enough to maintain alone.
 
-**Languages**
+- 🐹 Backend in Go: REST APIs, PostgreSQL, migrations, JWT auth, signed tokens
+- 🖥️ Desktop in Go: **Wails** (Go + React) and Fyne, offline-first with SQLite
+- 🧾 Brazilian fiscal integrations: direct SEFAZ webservices, XML signing, A1 certificates
+- 🖨️ Hardware on the counter: ESC/POS thermal printers, barcodes, QR codes
+
+```go
+package main
+
+type Developer struct {
+	Name     string
+	Location string
+	Stack    []string
+	Building []string
+	Focus    string
+}
+
+func main() {
+	danillo := Developer{
+		Name:     "Danillo Teodoro",
+		Location: "Brazil 🇧🇷",
+		Stack:    []string{"Go", "PostgreSQL", "SQLite", "Wails", "React"},
+		Building: []string{"POS systems", "NF-e / NFC-e emitters", "license servers"},
+		Focus:    "simple code, single binary, ships on Friday",
+	}
+
+	_ = danillo // err == nil, always check it anyway
+}
+```
+
+## 🛠️ Tech Stack
+
+**Main**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,mysql,sqlite,docker&perline=8" alt="Go and databases" />
 </p>
 
-**Frontend**
+**Frontend (Wails UIs)**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite&perline=8" alt="Frontend" />
 </p>
 
-**Backend & Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase,postgres,dotnet,qt&perline=8" alt="Backend and data" />
-</p>
+**Go ecosystem I use**
 
-**Tooling**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vitest&perline=8" alt="Tooling" />
-</p>
+![Wails](https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white)
+![chi](https://img.shields.io/badge/chi-router-00ADD8?style=flat-square&logo=go&logoColor=white)
+![pgx](https://img.shields.io/badge/pgx-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![goose](https://img.shields.io/badge/goose-migrations-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Fyne](https://img.shields.io/badge/Fyne-GUI-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-<sub>Also working with: shadcn/ui, Radix UI, NextAuth, Zod, React Hook Form, Zustand, Recharts, Stripe, Mercado Pago, Testing Library.</sub>
+## 🚀 Featured Projects
 
-## What I Build
+> Most of these are commercial and live in private repositories — happy to walk through the code in an interview.
 
-- **Full stack Next.js** apps with Prisma, NextAuth, and payment flows (Stripe / Mercado Pago).
-- **React + Supabase** dashboards with shadcn/ui, Zod validation, and charts.
-- **Desktop tooling** in C# / .NET and C++ / Qt.
-- Test coverage with Vitest and Testing Library, deployed on Vercel.
+| Project | What it does | Stack |
+|---|---|---|
+| **Vexis PDV** | Point-of-sale platform: multi-company REST backend (companies, branches, registers, terminals), a Wails desktop front-counter app and a dedicated licensing/billing server that unlocks each PDV with short-lived **Ed25519-signed** tokens and Pix charges. | Go · chi · pgx · PostgreSQL · goose · JWT · Wails · React |
+| **Lampa NF-e** | Desktop emitter for Brazilian electronic invoices talking **directly to SEFAZ** (no middleman): NF-e and NFC-e issuing, query, cancellation, correction letters and number voiding, with XML-DSig signing and DANFE PDF. | Go · Wails · MySQL · goxmldsig · fpdf |
+| **Master PDV** | Offline-first POS: shared Go core, local SQLite, Wails cashier screen, ESC/POS printing and NFC-e. | Go · Wails · SQLite · ESC/POS |
+| **ScrUtil** | Desktop app for MDF-e / NF-e fiscal documents written in pure Go, with MySQL repositories and Excel export. | Go · Fyne · MySQL · excelize |
+| **[Projeção](https://github.com/danilloteeo/projecao-releases)** | Church projection system: song lyrics, Bible, media, Spotify and playbacks on a second screen. | Go · Wails · React · TypeScript |
 
-## Featured Projects
+## 🎯 Current Focus
 
-- **[Cardapio.app](https://github.com/danilloteeo/lanchonete)** — Digital menu SaaS for food shops. Each store builds its menu and gets a public link; orders go to WhatsApp and online payments run through Mercado Pago. *Next.js 16, React 19, Prisma, NextAuth, Stripe / Mercado Pago.*
-- **[Multi-Niche Scheduling](https://github.com/danilloteeo/2026)** — Multi-tenant scheduling SaaS: businesses from different niches sign up and get a public link for clients to book without logging in. *Next.js, Supabase, PostgreSQL.*
-- **[Batedor de Ponto](https://github.com/danilloteeo/PointManager)** — Work-hours time clock with web and mobile sharing the same API. *Next.js, Prisma, PostgreSQL, React Native (Expo).*
-- **[EletricPower](https://github.com/danilloteeo/EletricPower)** — Management dashboard with reports and printable charts. *React, Supabase, shadcn/ui, Recharts, Zod.*
+- Going deeper into **Go concurrency, testing and profiling**
+- Clean architecture for Go services: small packages, explicit dependencies, no magic
+- Shipping polished **Wails** desktop apps with installers and auto-update
+- Covering more of the Brazilian fiscal stack (NFS-e nacional, MDF-e)
 
-## Current Focus
-
-- Deepen full stack delivery with Next.js, Prisma, and Supabase.
-- Strengthen testing discipline and clean project structure.
-- Improve real-world integrations (auth, payments, file storage).
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danilloteeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloteeo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danilloteeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloteeo&layout=compact&hide=c%23,c%2B%2B,dart,javascript,astro,css,html&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=danilloteeo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Contact
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danilloteeo&theme=tokyo-night&hide_border=true&area=true&color=00ADD8&line=00ADD8&point=ffffff" alt="Contribution activity graph" />
+</p>
 
-- LinkedIn: [DanilloTeodoro](https://www.linkedin.com/in/danillo-teodoro-48a89b294/)
-- Email: `danillot123@gmail.com`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
+## 📫 Contact
+
+Open to backend / Go opportunities and freelance work.
+
+- LinkedIn: [Danillo Teodoro](https://www.linkedin.com/in/danillo-teodoro-48a89b294/)
+- Email: [danillot123@gmail.com](mailto:danillot123@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ADD8,100:0F172A&section=footer" alt="Footer" />
+</p>
