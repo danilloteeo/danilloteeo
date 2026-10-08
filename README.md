@@ -96,7 +96,10 @@ func main() {
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danilloteeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloteeo&layout=compact&hide=c%23,c%2B%2B,dart,javascript,astro,css,html&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/metrics-languages.svg" alt="Most used languages (public + private repos)" />
 </p>
 
 <p align="center">
