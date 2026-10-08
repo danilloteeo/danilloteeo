@@ -28,7 +28,7 @@ Desenvolvedor Go do Brasil 🇧🇷, 19 anos. Construo **software que pequenos c
 
 ## 🚀 Projetos
 
-> A maioria é comercial e fica em repositórios privados — posso mostrar o código numa entrevista.
+> O Vexis é comercial e privado — posso mostrar o código numa entrevista.
 
 | Projeto | O que é | Stack |
 |---|---|---|

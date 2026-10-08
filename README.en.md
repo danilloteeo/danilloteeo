@@ -28,7 +28,7 @@ Go developer from Brazil 🇧🇷, 19. I build **software that small businesses 
 
 ## 🚀 Projects
 
-> Most are commercial and private — happy to walk through the code in an interview.
+> Vexis is commercial and private — happy to walk through the code in an interview.
 
 | Project | What it is | Stack |
 |---|---|---|
