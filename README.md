@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0F172A,100:00ADD8&text=Danillo%20Teodoro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Go%20Developer%20%C2%B7%20Backend%20%26%20Desktop&descAlignY=58" alt="Danillo Teodoro — Go Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0F172A,100:00ADD8&text=Danillo%20Teodoro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Go%20%C2%B7%20Backend%20%26%20Desktop&descAlignY=58" alt="Danillo Teodoro — Desenvolvedor Go" />
+</p>
+
+<p align="center">
+  <b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a>
 </p>
 
 <p align="center">
@@ -7,14 +11,14 @@
   <a href="mailto:danillot123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## 👋 About
+## 👋 Sobre mim
 
-Go developer from Brazil 🇧🇷, 19. I build **software that small businesses use every day**: point-of-sale systems, Brazilian fiscal document emitters (NF-e, NFC-e, MDF-e) and licensing servers.
+Desenvolvedor Go do Brasil 🇧🇷, 19 anos. Construo **software que pequenos comércios usam todo dia**: sistemas de PDV, emissores de documentos fiscais (NF-e, NFC-e, MDF-e) e servidores de licenciamento.
 
-- **Backend:** REST APIs in Go with chi, pgx and PostgreSQL
-- **Desktop:** Wails (Go + React) and Fyne, offline-first with SQLite
-- **Fiscal:** direct SEFAZ integration, XML signing, A1 certificates
-- **Hardware:** ESC/POS thermal printers, barcodes, QR codes
+- **Backend:** APIs REST em Go com chi, pgx e PostgreSQL
+- **Desktop:** Wails (Go + React) e Fyne, offline-first com SQLite
+- **Fiscal:** integração direta com a SEFAZ, assinatura de XML, certificados A1
+- **Hardware:** impressoras térmicas ESC/POS, códigos de barras, QR codes
 
 ## 🛠️ Stack
 
@@ -22,36 +26,36 @@ Go developer from Brazil 🇧🇷, 19. I build **software that small businesses 
   <img src="https://skillicons.dev/icons?i=go,postgres,mysql,sqlite,docker,ts,react,tailwind,vite" alt="Go, PostgreSQL, MySQL, SQLite, Docker, TypeScript, React, Tailwind, Vite" />
 </p>
 
-## 🚀 Projects
+## 🚀 Projetos
 
-> Most are commercial and private — happy to walk through the code in an interview.
+> A maioria é comercial e fica em repositórios privados — posso mostrar o código numa entrevista.
 
-| Project | What it is | Stack |
+| Projeto | O que é | Stack |
 |---|---|---|
-| **Vexis PDV** | Multi-company POS platform with desktop app and a licensing server (Ed25519-signed tokens, Pix billing) | Go · PostgreSQL · Wails |
-| **Lampa NF-e** | Desktop emitter for NF-e / NFC-e talking directly to SEFAZ, with DANFE PDF | Go · Wails · MySQL |
-| **Master PDV** | Offline-first POS with ESC/POS printing and NFC-e | Go · Wails · SQLite |
-| **ScrUtil** | MDF-e / NF-e desktop tool with Excel export | Go · Fyne · MySQL |
-| **[Projeção](https://github.com/danilloteeo/projecao-releases)** | Church projection system: lyrics, Bible and media on a second screen | Go · Wails · React |
+| **Vexis PDV** | Plataforma de PDV multiempresa com app desktop e servidor de licenças (tokens assinados com Ed25519, cobrança via Pix) | Go · PostgreSQL · Wails |
+| **Lampa NF-e** | Emissor desktop de NF-e / NFC-e falando direto com a SEFAZ, com DANFE em PDF | Go · Wails · MySQL |
+| **Master PDV** | PDV offline-first com impressão ESC/POS e NFC-e | Go · Wails · SQLite |
+| **ScrUtil** | Ferramenta desktop de MDF-e / NF-e com exportação para Excel | Go · Fyne · MySQL |
+| **[Projeção](https://github.com/danilloteeo/projecao-releases)** | Sistema de projeção para igrejas: letras, Bíblia e mídias numa segunda tela | Go · Wails · React |
 
-## 📊 Stats
+## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danilloteeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danilloteeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/metrics-languages.svg" alt="Most used languages (public + private repos)" />
+  <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/metrics-languages.svg" alt="Linguagens mais usadas (repositórios públicos e privados)" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake.svg" alt="Snake eating my contributions" />
+    <img src="https://raw.githubusercontent.com/danilloteeo/danilloteeo/output/github-snake.svg" alt="Cobrinha comendo minhas contribuições" />
   </picture>
 </p>
 
 ---
 
-<p align="center">Open to backend / Go opportunities and freelance work · <a href="mailto:danillot123@gmail.com">danillot123@gmail.com</a></p>
+<p align="center">Aberto a vagas de backend / Go e trabalhos freelance · <a href="mailto:danillot123@gmail.com">danillot123@gmail.com</a></p>
