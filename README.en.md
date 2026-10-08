@@ -33,9 +33,8 @@ Go developer from Brazil 🇧🇷, 19. I build **software that small businesses 
 | Project | What it is | Stack |
 |---|---|---|
 | **Vexis PDV** | Multi-company POS platform with desktop app and a licensing server (Ed25519-signed tokens, Pix billing) | Go · PostgreSQL · Wails |
-| **Lampa NF-e** | Desktop emitter for NF-e / NFC-e talking directly to SEFAZ, with DANFE PDF | Go · Wails · MySQL |
-| **Master PDV** | Offline-first POS with ESC/POS printing and NFC-e | Go · Wails · SQLite |
-| **ScrUtil** | MDF-e / NF-e desktop tool with Excel export | Go · Fyne · MySQL |
+| **[Certificate Reader](https://github.com/danilloteeo/leitor-certificados-digitais)** | Reads Brazilian ICP-Brasil digital certificates (e-CPF / e-CNPJ, A1 and A3) on Windows: holder, expiry, PFX export. Runs fully offline | Go · Wails · React |
+| **[Planly](https://github.com/danilloteeo/planilha)** | Desktop Excel spreadsheet builder: create, edit, validate and export spreadsheets with formulas without opening Excel | Go · Wails · React · excelize |
 | **[Projeção](https://github.com/danilloteeo/projecao-releases)** | Church projection system: lyrics, Bible and media on a second screen | Go · Wails · React |
 
 ## 📊 Stats
